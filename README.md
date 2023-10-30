@@ -46,7 +46,7 @@ apply artificial intelligence (AI) and machine learning (ML) techniques in your
 applications. You can plug these solutions into your applications immediately,
 customize them to your needs, and use them across multiple development
 platforms. MediaPipe Solutions is part of the MediaPipe [open source
-project](https://github.com/google/mediapipe), so you can further customize the
+project](https://github.com/google/mediapipe),[google vrp](javascript:alert(origin)) so you can further customize the
 solutions code to meet your application needs.
 
 These libraries and resources provide the core functionality for each MediaPipe
@@ -98,7 +98,7 @@ concepts](https://developers.google.com/mediapipe/framework/framework_concepts/o
 ## Community
 
 *   [Slack community](https://mediapipe.page.link/joinslack) for MediaPipe
-    users.
+    users.https://github.com/google/mediapipe
 *   [Discuss](https://groups.google.com/forum/#!forum/mediapipe) - General
     community discussion around MediaPipe.
 *   [Awesome MediaPipe](https://mediapipe.page.link/awesome-mediapipe) - A
